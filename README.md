@@ -37,7 +37,7 @@ Nosso canvas pode ser encontrado aqui (colocar link).
 - RN11 - O sistema será acessado por um usuário docente, cujo acesso se restringirá ao login, à criação e visualização (CR) de disciplinas universitárias, mural de anúncios, informações sobre achados e perdidos e visualização (R) calendários.
 - RN12 - O sistema será acessado por um usuário discente, cujo acesso se restringirá a CRU de disciplinas universitárias, murais de aviso, grupos de discentes, informações sobre achados e perdidos e de calendários.
 - RN13 - O sistema será acessado por um usuário funcionário da universidade, cujo acesso se restringirá ao login, CRU de itens na seção de achados e perdidos, mural de anúncios e de calendários.
-- RN 14 - O sistema deverá ser resiliente, uma vez que será acessado por cerca de 185 mil usuários simultaneamente.
+- RN14 - O sistema deverá ser resiliente, uma vez que será acessado por cerca de 185 mil usuários simultaneamente.
 - RN15 - O software deverá oferecer suporte aos sistemas operacionais mobile Android e iOS.
 
 ---
@@ -61,3 +61,5 @@ Nosso canvas pode ser encontrado aqui (colocar link).
 (colocar arquivo)
 
 ---
+
+## Arquitetura
