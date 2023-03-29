@@ -9,7 +9,7 @@ O projeto Área Verde tem seu nome baseado no local de convivência da bibliotec
 ---
 
 ## Brainstorming - Canvas
-Nosso canvas pode ser encontrado aqui (colocar link).
+Nosso canvas pode ser encontrado [aqui] (https://drive.google.com/file/d/1jNKuMGRp6UgUyskcGRezX4Huhc6SwXmz/view?usp=sharing).
 
 ---
 
