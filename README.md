@@ -4,7 +4,15 @@ Essa organização foi criada com o objetivo de administrar o código de uma pro
 ## Nome do software
 Projeto Área Verde tem esse nome...
 
-## Casos de Uso
+## Requisitos
+
+### Funcionais:
+
+### Não Funcionais:
+
+## Diagramas
+
+### Casos de Uso
 
 - De login:
 
@@ -16,4 +24,4 @@ Projeto Área Verde tem esse nome...
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_DiscentesUniversitarios.png?raw=true" alt="Casos de Uso - Discentes Universitarios">
 
----
+
