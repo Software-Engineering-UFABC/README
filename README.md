@@ -56,7 +56,7 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_DiscentesUniversitarios.png?raw=true" alt="Casos de Uso - Discentes Universitarios">
 
-### Descrição de Casos de Uso
+### Descrição dos Casos de Uso
 
 - De Discentes Universitários:
 (colocar arquivo)
@@ -69,13 +69,9 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 
 ## Arquitetura Geral
 
-A arquitetura do Área Verde é orientada a serviços, conforme o seguinte esboço:
-
-(colocar arquivo)
+A arquitetura do Área Verde é orientada a serviços, conforme o seguinte: [seguinte](https://github.com/Software-Engineering-UFABC/README/blob/main/Esboco_Arquitetura_AreaVerde.jpeg)
 
 
 ## Arquitetura MVP
 
-Descrição do Fluxo de Login: Um cliente mobile, desejando realizar cadastro ou login no sistema, fará uma solicitação síncrona para o nosso servidor, que tem como porta de entrada a API orquestradora. A API orquestradora, por sua vez, chamará o serviço de login. Esse serviço tem como responsabilidade verificar se o cliente deseja criar ou entrar em sua conta. Se a opção for criar uma conta, o serviço verificará junto à API da Universidade se há dados desse usuário e, caso não haja, o mesmo será encaminhado para uma tela de cadastro. Se a opção for a de realizar login então o usuário inserirá seus dados de e-mail e senha cadastrados e entrará no sistema.
 
-Descrição do Fluxo de Discentes Universitários: Um cliente mobile, com perfil de discente, desejando acessar sua conta, chamará a API orquestradora, que verificará qual atividade esse usuário deseja realizar. Se o desejado for consultar sua conta, o serviço de login será chamado. Se for consultar disciplinas, o serviço de Disciplinas será chamado e assim por diante.
