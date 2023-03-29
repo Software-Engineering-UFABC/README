@@ -6,14 +6,12 @@ Projeto Área Verde tem esse nome...
 
 ## Casos de Uso
 
----
 - De login:
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_Login.png?raw=true" alt="Casos de Uso - Login">
 
 ---
 
----
 - De Discentes Universitários:
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_DiscentesUniversitarios.png?raw=true" alt="Casos de Uso - Discentes Universitarios">
