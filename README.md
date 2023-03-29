@@ -56,7 +56,7 @@ Nosso canvas pode ser encontrado aqui (colocar link).
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_DiscentesUniversitarios.png?raw=true" alt="Casos de Uso - Discentes Universitarios">
 
-### Modelo Entidade-Relacionamento
+### Diagrama Entidade-Relacionamento
 
 (colocar arquivo)
 
