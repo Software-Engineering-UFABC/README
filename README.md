@@ -1,5 +1,5 @@
 # README - Área Verde
-Esse repositório foi criado com o objetivo de administrar a documentação do projeto Área Verde. Assim, arquivos e links referentes ao desenvolvimento podem ser encontrados aqui.
+Esse repositório foi criado com o objetivo de administrar a documentação do projeto Área Verde. Assim, arquivos e links referentes ao desenvolvimento podem ser encontrados por aqui.
 
 ---
 
@@ -9,7 +9,7 @@ O projeto Área Verde tem seu nome baseado no local de convivência da bibliotec
 ---
 
 ## Brainstorming - Canvas
-Nosso canvas pode ser encontrado [aqui] (https://drive.google.com/file/d/1jNKuMGRp6UgUyskcGRezX4Huhc6SwXmz/view?usp=sharing).
+Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGRp6UgUyskcGRezX4Huhc6SwXmz/view?usp=sharing).
 
 ---
 
