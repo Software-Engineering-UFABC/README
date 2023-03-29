@@ -71,8 +71,7 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 
 A arquitetura do Área Verde é orientada a serviços, conforme o seguint esboço:
 
-[seguinte](https://github.com/Software-Engineering-UFABC/README/blob/main/Esboco_Arquitetura_AreaVerde.jpeg)
-<img src="[https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_Login.png](https://github.com/Software-Engineering-UFABC/README/blob/main/Esboco_Arquitetura_AreaVerde.jpeg)?raw=true" alt="Esboço da Arquitetura Geral">
+<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_Login.png?raw=true" alt="Esboço da Arquitetura Geral">
 
 ## Arquitetura MVP
 
