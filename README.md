@@ -74,5 +74,7 @@ A arquitetura do Área Verde é orientada a serviços, conforme o seguint esboç
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/Esboco_Arquitetura_AreaVerde.jpeg" alt="Esboço da Arquitetura Geral">
 
 ## Arquitetura MVP
+Descrição do Fluxo de Login: Um cliente mobile, desejando realizar cadastro ou login no sistema, fará uma solicitação síncrona para o nosso servidor, que tem como porta de entrada a API orquestradora. A API orquestradora, por sua vez, chamará o serviço de login. Esse serviço tem como responsabilidade verificar se o cliente deseja criar ou entrar em sua conta. Se a opção for criar uma conta, o serviço verificará junto à API da Universidade se há dados desse usuário e, caso não haja, o mesmo será encaminhado para uma tela de cadastro. Se a opção for a de realizar login então o usuário inserirá seus dados de e-mail e senha cadastrados e entrará no sistema.
 
+Descrição do Fluxo de Discentes Universitários: Um cliente mobile, com perfil de discente, desejando acessar sua conta, chamará a API orquestradora, que verificará qual atividade esse usuário deseja realizar. Se o desejado for consultar sua conta, o serviço de login será chamado. Se for consultar disciplinas, o serviço de Disciplinas será chamado e assim por diante.
 
