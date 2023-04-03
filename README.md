@@ -81,6 +81,8 @@ A API orquestradora, por sua vez, chamará o serviço de login. Esse serviço te
 
 Se a opção for a de realizar login então o usuário inserirá seus dados de e-mail e senha cadastrados e entrará no sistema ou seguirá com a conta pessoal cadastrada anteriormente.
 
+---
+
 Descrição do Fluxo de Murais de Aviso:
 
 Um cliente mobile, que já realizou login e recebeu seu perfil de acesso, desejando acessar sua conta, chamará a API orquestradora, esta verificará qual atividade esse usuário deseja realizar. Se for a interação com Murais de Aviso, o serviço de Murais de Aviso será chamado.
