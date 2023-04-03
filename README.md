@@ -63,9 +63,7 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 
 ### Diagrama Entidade-Relacionamento
 
-(colocar arquivo)
-
----
+<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/Diagrama_ER.png?raw=true" alt="Diagrama Entidade-Relacionamento">
 
 ## Arquitetura Geral
 
