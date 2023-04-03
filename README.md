@@ -81,6 +81,8 @@ A API orquestradora, por sua vez, chamará o serviço de login. Esse serviço te
 
 Se a opção for a de realizar login então o usuário inserirá seus dados de e-mail e senha cadastrados e entrará no sistema ou seguirá com a conta pessoal cadastrada anteriormente.
 
-Descrição do Fluxo de Murais de Aviso: 
-Um cliente mobile, com perfil de discente, desejando acessar sua conta, chamará a API orquestradora, que verificará qual atividade esse usuário deseja realizar. Se o desejado for consultar sua conta, o serviço de login será chamado. Se for consultar disciplinas, o serviço de Disciplinas será chamado e assim por diante.
+Descrição do Fluxo de Murais de Aviso:
 
+Um cliente mobile, que já realizou login e recebeu seu perfil de acesso, desejando acessar sua conta, chamará a API orquestradora, esta verificará qual atividade esse usuário deseja realizar. Se for a interação com Murais de Aviso, o serviço de Murais de Aviso será chamado.
+
+Esse serviço tem como responsabilidade permitir que os usuários que com ele interagem consigam trocar informações com suas comunidades. No caso dessa funcionalidade para discentes universitários, o serviço verificará se um discente privilegiado está tentando criar um aviso para ser exibido à sua comunidade, esta que pode ser composta por outros discentes privilegiados, discentes comuns ou funcionários universitários (docente, segurança, porteiro, etc).
