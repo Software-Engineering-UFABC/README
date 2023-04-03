@@ -46,7 +46,7 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 
 ### Casos de Uso
 
-- De login: Todo e qualquer usuário interagindo com o Área Verde:
+- De login - Todo e qualquer usuário interagindo com o Área Verde:
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_Login.png?raw=true" alt="Casos de Uso - Login">
 
@@ -56,9 +56,9 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_DiscentesUniversitarios.png?raw=true" alt="Casos de Uso - Discentes Universitarios">
 
-### Descrição dos Casos de Uso
+### Descrição dos Casos de Uso e Estudo de Caso (feliz e infeliz)
 
-- De Discentes Universitários:
+- Discentes Universitários acessando Mural de Avisos:
 (colocar arquivo)
 
 ### Diagrama Entidade-Relacionamento
