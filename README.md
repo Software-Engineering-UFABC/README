@@ -46,13 +46,13 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 
 ### Casos de Uso
 
-- De login:
+- De login: Todo e qualquer usuário interagindo com o Área Verde:
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_Login.png?raw=true" alt="Casos de Uso - Login">
 
 ---
 
-- De Discentes Universitários:
+- De Discentes Universitários interagindo com o Área Verde:
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_DiscentesUniversitarios.png?raw=true" alt="Casos de Uso - Discentes Universitarios">
 
