@@ -59,7 +59,8 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 ### Descrição dos Casos de Uso e Estudo de Caso (feliz e infeliz)
 
 - Discentes Universitários acessando Mural de Avisos:
-(colocar arquivo)
+<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/Descrição%20Mural%20de%20Avisos.png">
+
 
 ### Diagrama Entidade-Relacionamento
 
