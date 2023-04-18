@@ -104,11 +104,12 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 
 ## Plano de Testes
 
-### Tabela descricional dos testes planejados para o backend do Área Verde:
+### Tabela descricional dos testes planejados para os artefatos do Área Verde:
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/PlanoTestes_AreaVerde.png" alt="Plano de Testes - Area Verde">
 
-### Teste de Caixa Preta - Funcionalidade de Mural de Avisos
+### Passo a passo: teste de caixa preta - Acessando Murais de Aviso
 
-(fluxograma)
+- Discente comum
+- Discente privilegiado
 
