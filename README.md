@@ -95,5 +95,5 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 
 Tabela descricional dos testes planejados para o Área Verde:
 
-<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/Esboco_Arquitetura_AreaVerde.jpeg" alt="Esboço da Arquitetura Geral">
+<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/PlanoTestes_AreaVerde.png" alt="Plano de Testes - Area Verde">
 
