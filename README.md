@@ -108,7 +108,7 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/PlanoTestes_AreaVerde.png" alt="Plano de Testes - Area Verde">
 
-### Passo a passo: teste de caixa preta - Acessando Murais de Aviso
+### Teste de caixa preta - Acessando Murais de Aviso
 
 - Discente comum
 - Discente privilegiado
