@@ -13,6 +13,11 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 
 ---
 
+## Backlog - MVP Área Verde
+Nosso backlog pode ser encontrado [aqui](https://shiny-soarer-d28.notion.site/d4edc3c05533491ba20b974bc1b9503e?v=30f7fd759b074676bc7c0f0f64ef9d5e).
+
+---
+
 ## Requisitos de Sistema
 
 ### Funcionais:
@@ -99,11 +104,11 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 
 ## Plano de Testes
 
-Tabela descricional dos testes planejados para o Área Verde:
+### Tabela descricional dos testes planejados para o backend do Área Verde:
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/PlanoTestes_AreaVerde.png" alt="Plano de Testes - Area Verde">
 
-### Teste Funcional - Mural de Aviso
+### Teste de Caixa Preta - Funcionalidade de Mural de Avisos
 
-(prints de tela / fluxograma)
+(fluxograma)
 
