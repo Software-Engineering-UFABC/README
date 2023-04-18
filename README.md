@@ -89,3 +89,11 @@ Descrição do Fluxo de Murais de Aviso:
 Um cliente mobile, que já realizou login e recebeu seu perfil de acesso, desejando acessar sua conta, chamará a API orquestradora, esta verificará qual atividade esse usuário deseja realizar. Se for a interação com Murais de Aviso, o serviço de Murais de Aviso será chamado.
 
 Esse serviço tem como responsabilidade permitir que os usuários que com ele interagem consigam trocar informações com suas comunidades. No caso dessa funcionalidade para discentes universitários, o serviço verificará se um discente privilegiado está tentando criar um aviso para ser exibido à sua comunidade, esta que pode ser composta por outros discentes privilegiados, discentes comuns ou funcionários universitários (docente, segurança, porteiro, etc).
+
+
+### Plano de Testes
+
+Tabela descricional dos testes planejados para o Área Verde:
+
+<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/Esboco_Arquitetura_AreaVerde.jpeg" alt="Esboço da Arquitetura Geral">
+
