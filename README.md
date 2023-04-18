@@ -56,15 +56,20 @@ Nosso canvas pode ser encontrado [aqui](https://drive.google.com/file/d/1jNKuMGR
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/CasosUso_DiscentesUniversitarios.png?raw=true" alt="Casos de Uso - Discentes Universitarios">
 
+---
+
 ### Descrição dos Casos de Uso e Estudo de Caso (feliz e infeliz)
 
 - Discentes Universitários acessando Mural de Avisos:
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/Descrição%20Mural%20de%20Avisos.png">
 
+---
 
 ### Diagrama Entidade-Relacionamento
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/Diagrama_ER.png?raw=true" alt="Diagrama Entidade-Relacionamento">
+
+---
 
 ## Arquitetura Geral
 
@@ -97,4 +102,8 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 Tabela descricional dos testes planejados para o Área Verde:
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/PlanoTestes_AreaVerde.png" alt="Plano de Testes - Area Verde">
+
+### Teste Funcional - Mural de Aviso
+
+(prints de tela / fluxograma)
 
