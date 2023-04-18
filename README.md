@@ -90,8 +90,9 @@ Um cliente mobile, que já realizou login e recebeu seu perfil de acesso, deseja
 
 Esse serviço tem como responsabilidade permitir que os usuários que com ele interagem consigam trocar informações com suas comunidades. No caso dessa funcionalidade para discentes universitários, o serviço verificará se um discente privilegiado está tentando criar um aviso para ser exibido à sua comunidade, esta que pode ser composta por outros discentes privilegiados, discentes comuns ou funcionários universitários (docente, segurança, porteiro, etc).
 
+---
 
-### Plano de Testes
+## Plano de Testes
 
 Tabela descricional dos testes planejados para o Área Verde:
 
