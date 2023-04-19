@@ -108,6 +108,6 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/PlanoTestes_AreaVerde.png" alt="Plano de Testes - Area Verde">
 
-### Teste de caixa preta - Acessando Murais de Aviso
+### Teste de caixa preta - Discente acessando Murais de Aviso
 
-<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/TabelaDecisao_RF06.png>
+<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/TabelaDecisao_RF06.png" alt="Teste Funcional - Acesso de discente a mural de avisos">
