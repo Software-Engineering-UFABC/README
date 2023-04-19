@@ -110,6 +110,4 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 
 ### Teste de caixa preta - Acessando Murais de Aviso
 
-- Discente comum
-- Discente privilegiado
-
+<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/TabelaDecisao_RF06.png>
