@@ -114,7 +114,7 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 
 ---
 
-## Todo List:
+## To-do List:
 
 - [x] Implementar autenticador de usuário
 - [ ] Implementar sistema do Achados e Perdidos
