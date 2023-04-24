@@ -46,7 +46,11 @@ Nosso backlog pode ser encontrado [aqui](https://shiny-soarer-d28.notion.site/d4
 - RN15 - O software deverá oferecer suporte aos sistemas operacionais mobile Android e iOS.
 
 ---
+## Diferenciais competitivos do MVP
 
+<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/Diferenciais%20competitivos%20-%20área%20verde.png">
+
+---
 ## Diagramas
 
 ### Casos de Uso
