@@ -111,3 +111,13 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 ### Teste de caixa preta - Discente acessando Murais de Aviso
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/TabelaDecisao_RF06.png" alt="Teste Funcional - Acesso de discente a mural de avisos">
+
+###Todo List:
+
+- [x] Implementar autenticador de usuário
+- [ ] Implementar sistema do Achados e Perdidos
+- [ ] Integrar Achados e Perdidos com a base de dados
+- [ ] Implementar importação de dados através do PDF de matrículas
+- [ ] Resolver pendências com firebase
+- [ ] Hostear aplicativo em servidor mais robusto
+- [ ] POSSIBILIDADE - Integrar sistema com UFABC Next
