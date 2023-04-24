@@ -123,3 +123,5 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 - [ ] Resolver pendências com firebase
 - [ ] Hostear aplicativo em servidor mais robusto
 - [ ] POSSIBILIDADE - Integrar sistema com UFABC Next
+
+Lista detalhada por área e contribuinte disponível no [Notion](https://www.notion.so/d4edc3c05533491ba20b974bc1b9503e?v=30f7fd759b074676bc7c0f0f64ef9d5e)
