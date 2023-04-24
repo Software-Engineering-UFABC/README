@@ -112,7 +112,9 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 
 <img src="https://github.com/Software-Engineering-UFABC/README/blob/main/TabelaDecisao_RF06.png" alt="Teste Funcional - Acesso de discente a mural de avisos">
 
-###Todo List:
+---
+
+##Todo List:
 
 - [x] Implementar autenticador de usuário
 - [ ] Implementar sistema do Achados e Perdidos
