@@ -132,4 +132,4 @@ Lista detalhada por área e contribuinte disponível no [Notion](https://www.not
 
 O seguinte .GIF ilustra o comportamento esperado do aplicativo.
 
-![Demo GIF](https://github.com/Software-Engineering-UFABC/README/blob/main/AreaVerde_apresentacao01.mp4)
+![Demo GIF](https://github.com/Software-Engineering-UFABC/README/blob/main/AreaVerde.mp4)
