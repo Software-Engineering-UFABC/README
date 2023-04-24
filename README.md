@@ -125,3 +125,11 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 - [ ] POSSIBILIDADE - Integrar sistema com UFABC Next
 
 Lista detalhada por área e contribuinte disponível no [Notion](https://www.notion.so/d4edc3c05533491ba20b974bc1b9503e?v=30f7fd759b074676bc7c0f0f64ef9d5e)
+
+---
+
+## Demonstração
+
+O seguinte .GIF ilustra o comportamento esperado do aplicativo.
+
+![Demo GIF](img/demo.gif)
