@@ -123,7 +123,7 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 - [x] Implementar autenticador de usuário
 - [ ] Implementar sistema do Achados e Perdidos
 - [ ] Integrar Achados e Perdidos com a base de dados
-- [ ] Implementar importação de dados através do PDF de matrículas
+- [x] Implementar importação de dados através do PDF de matrículas
 - [ ] Resolver pendências com firebase
 - [ ] Hostear aplicativo em servidor mais robusto
 - [ ] POSSIBILIDADE - Integrar sistema com UFABC Next
