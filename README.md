@@ -136,3 +136,9 @@ Lista detalhada por área e contribuinte disponível no [Notion](https://www.not
 ## Demonstração
 
 O link com a demo ilustra o comportamento esperado do aplicativo e encontra-se [aqui](https://drive.google.com/file/d/1MWhdR4bZ9tBFJxnhL5Zpt7HxvKsx8t2x/view?usp=sharing).
+
+---
+
+## Nosso time ♡
+
+<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/nosso-time.jpeg" alt="Nosso time - Area Verde">
