@@ -122,6 +122,7 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 
 - [x] Implementar autenticador de usuário
 - [ ] Permitir diferentes tipos de login
+- [ ] Implementar back-end nas telas de grade e notícias 
 - [ ] Implementar sistema do Achados e Perdidos
 - [ ] Integrar Achados e Perdidos com a base de dados
 - [x] Implementar importação de dados através do PDF de matrículas
