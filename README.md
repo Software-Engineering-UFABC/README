@@ -1,4 +1,5 @@
 # README - Área Verde
+
 Esse repositório foi criado com o objetivo de administrar a documentação do projeto Área Verde. Assim, arquivos e links referentes ao desenvolvimento podem ser encontrados por aqui.
 
 ---
@@ -52,6 +53,7 @@ Nosso backlog pode ser encontrado [aqui](https://shiny-soarer-d28.notion.site/d4
 - RN15 - O software deverá oferecer suporte aos sistemas operacionais mobile Android e iOS.
 
 ---
+
 ## Diferenciais competitivos do MVP
 
 <img src="Diferenciais competitivos - área verde1.png">
