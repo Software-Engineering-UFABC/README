@@ -121,10 +121,10 @@ Esse serviço tem como responsabilidade permitir que os usuários que com ele in
 ## To-do List:
 
 - [x] Implementar autenticador de usuário
+- [ ] Permitir diferentes tipos de login
 - [ ] Implementar sistema do Achados e Perdidos
 - [ ] Integrar Achados e Perdidos com a base de dados
 - [x] Implementar importação de dados através do PDF de matrículas
-- [ ] Resolver pendências com firebase
 - [ ] Hostear aplicativo em servidor mais robusto
 - [ ] POSSIBILIDADE - Integrar sistema com UFABC Next
 
@@ -134,4 +134,4 @@ Lista detalhada por área e contribuinte disponível no [Notion](https://www.not
 
 ## Demonstração
 
-O link com a demo ilustra o comportamento esperado do aplicativo e encontra-se [aqui](https://drive.google.com/file/d/1KaCOXQcqAVP18eqn7HeTPN0FWpFm1A1V/view?usp=sharing).
+O link com a demo ilustra o comportamento esperado do aplicativo e encontra-se [aqui](https://drive.google.com/file/d/1MWhdR4bZ9tBFJxnhL5Zpt7HxvKsx8t2x/view?usp=sharing).
