@@ -48,7 +48,7 @@ Nosso backlog pode ser encontrado [aqui](https://shiny-soarer-d28.notion.site/d4
 ---
 ## Diferenciais competitivos do MVP
 
-<img src="https://github.com/Software-Engineering-UFABC/README/blob/main/Diferenciais%20competitivos%20-%20área%20verde.png">
+<img src="Diferenciais competitivos - área verde1.png">
 
 ---
 ## Diagramas
